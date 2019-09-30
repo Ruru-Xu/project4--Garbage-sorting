@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="222.201.187.180">
+    <serverData>
+      <paths name="222.201.187.175">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/huawei_garbage_classify/src_torch" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="222.201.187.180">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/huawei_garbage_classify/src_torch" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="222.201.187.253">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/competition/huawei_garbage_classify/src_torch" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
