@@ -19,6 +19,12 @@
 
 ## **Introduction**
 
+pytorch：       1.1.0           py3.6_cuda9.0.176_cudnn7.5.1_0
+
+torchvision：  0.3.0           py36_cu9.0.176_1
+
+------
+
 under the **garbage_classify** folder：
 
 ![1569928967022](img/1569928967022.png)
