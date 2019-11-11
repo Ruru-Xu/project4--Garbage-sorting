@@ -5,7 +5,7 @@
 
 **✧**  our **ranking**：**32**， **score**：**0.95104**
 
-**Description:** The task of the competition is to classify garbage pictures, that is, first identify the categories of items in garbage pictures (such as cans, peel, etc.), then query the garbage classification rules, output the items in the garbage pictures belong to recyclables, kitchen waste, harmful garbage and other garbage
+**Description:** The task of the competition is to classify pictures of garbage, that is, first identify the categories of garbage in pictures (such as cans, peel, etc.), then query the garbage classification rules, output garbage in the pictures as recyclables, kitchen waste, harmful garbage or other garbage
 
    In addition to the 542M data set on the official website, we used the crawler technology to crawl 666M images online
 
